@@ -27,7 +27,7 @@ Thinking objects is very similar to how we would make it in real life. For insta
 <p> <a href="https://en.wikipedia.org/wiki/Object-oriented_programming"> This is a Wikipedia entry </a></p>
 <h1></h1>
 <h2> Building a Simple OOP Application</h2>
-<h1></h1>
+
 <h2>Purpose</h2>
 
 We can use for instance to build a small webSite to manage citizen request by local city hall. Application will connect citizens with town hall administration service.
@@ -51,20 +51,14 @@ The administration's request responses will be public and visible to everyone so
 6. The citizen may assess the resolution of their request or even reopen it in the event that it is not resolved.(**Request & Request Status Entities Entities**)
 
 7. The information will be visible to all users of the application without showing personal data. (**Request & Request Status Entities Entities**)
-
+<h1></h1>
 <h2>User App Flow</h2>
-
-
 
  ![User App Flow](./CitizensReport.png)
 
-
-<h1></h1>
 <h2>Application samples</h2> 
-
-
-<h2>Sample 1:</h2> 
 <h1></h1>
+<h2>Sample 1:</h2> 
 
 >- A citizen detects that a street in his neighborhood has a hole in the ground, and someone could fall in.
 >
