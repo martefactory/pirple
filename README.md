@@ -51,7 +51,7 @@ The administration's request responses will be public and visible to everyone so
 6. The citizen may assess the resolution of their request or even reopen it in the event that it is not resolved.(**Request & Request Status Entities Entities**)
 
 7. The information will be visible to all users of the application without showing personal data. (**Request & Request Status Entities Entities**)
-<h1></h1>
+
 <h2>User App Flow</h2>
 
 
@@ -61,7 +61,7 @@ The administration's request responses will be public and visible to everyone so
 
 <h1></h1>
 <h2>Application samples</h2> 
-<h1></h1>
+
 
 <h2>Sample 1:</h2> 
 <h1></h1>
