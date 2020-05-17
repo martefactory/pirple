@@ -1,4 +1,4 @@
-# pirple Some code for Pirple projects
+# Some code for Pirple projects
 
 <!-- What is object oriented programming, and why would you use it? As you may already know,
  many javascript projects are written using a functional, or event-driven design pattern. 
@@ -57,7 +57,7 @@ The administration's request responses will be public and visible to everyone so
  ![User App Flow](./CitizensReport.png)
 
 <h2>Application samples</h2> 
-<h1></h1>
+
 <h2>Sample 1:</h2> 
 
 >- A citizen detects that a street in his neighborhood has a hole in the ground, and someone could fall in.
@@ -79,7 +79,7 @@ The administration's request responses will be public and visible to everyone so
 
 <h1></h1>
 <h2> Sample 2:</h2> 
-<h1></h1>
+
 
 >- A citizen observes that near the playground there are several dogs without an owner.
 >
