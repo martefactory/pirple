@@ -48,9 +48,9 @@ The administration's request responses will be public and visible to everyone so
 
 5. A communication will be sent to the citizens indicating that his request has been solved. (**Communication Entity**)
 
-6. The citizen may assess the resolution of their request or even reopen it in the event that it is not resolved.(**Request & Request Status Entities Entities**)
+6. The citizen may assess the resolution of their request or even reopen it in the event that it is not resolved.(**Request & Request Status Entities**)
 
-7. The information will be visible to all users of the application without showing personal data. (**Request & Request Status Entities Entities**)
+7. The information will be visible to all users of the application without showing personal data. (**Request & Request Status  Entities**)
 <h1></h1>
 <h2>User App Flow</h2>
 
