@@ -29,8 +29,6 @@ Thinking objects is very similar to how we would make it in real life. For insta
 <h2> Building a Simple OOP Application</h2>
 <h1></h1>
 <h2>Purpose</h2>
-<h1></h1>
-
 
 We can use for instance to build a small webSite to manage citizen request by local city hall. Application will connect citizens with town hall administration service.
 
@@ -39,7 +37,6 @@ Users will be able to register their requests focused on making improvements for
 The administration's request responses will be public and visible to everyone so that this information can help others. No personal data of citizens will be displayed on the public application.
 <h1></h1>
 <h2>Application User Flow:</h2>
-<h1></h1>
 
 1. The citizen / users must be registered in the application/system with their email and fill in some contact information. (**User & UserInfo Entities**)
 
@@ -56,7 +53,7 @@ The administration's request responses will be public and visible to everyone so
 7. The information will be visible to all users of the application without showing personal data. (**Request & Request Status Entities Entities**)
 <h1></h1>
 <h2>User App Flow</h2>
-<h1></h1>
+
 
 
  ![User App Flow](./CitizensReport.png)
